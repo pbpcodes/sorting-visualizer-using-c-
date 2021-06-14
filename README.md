@@ -11,7 +11,10 @@ if you have bash or zsh you can either run it via "sh compileAllcpp.sh" or u can
 
 
 Also This will not work unless you have raylib library installed, so be sure to do that.
-(
+
+Thanks to:
+Oogway101 aka ninja2004123 for the project idea
+
 
 
 # sorting-visualizer-using-c-plus-plus
